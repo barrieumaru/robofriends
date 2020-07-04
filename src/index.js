@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
-import Card from './components/card';
+//import Card from './components/card';
 import App from './containers/app';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-import {robots} from './robots';
+//import {robots} from './robots';
 
 
 ReactDOM.render(
